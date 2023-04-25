@@ -1,0 +1,4 @@
+#Mon Apr 24 22:23:53 BRT 2023
+base.0=C\:\\flutter\\projects\\quadra_de_esportes-main\\app07_projeto\\flutter_application_1\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
